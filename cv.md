@@ -41,7 +41,7 @@
    };
       
    let getMin = arr => arr.sort((a, b) => a - b)[0];
-1. Movie Catalog - [link]()
+1. Movie Catalog - [link](https://github.com/tokotomka/movie-catalog)
 1. Education
    - Rolling Scopes 2017
    - IT Shark 2018
